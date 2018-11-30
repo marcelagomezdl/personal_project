@@ -1,0 +1,80 @@
+body{
+	background-color: black;
+	font-family: helvetica;
+	font-weight: bold;
+	color: white;
+
+}
+
+h1{
+	font-size: 150px;
+	margin-left: 40px;
+	
+}
+
+h2{
+	margin-left: 40px;
+	font-size: 60px;
+}
+
+.pet2{
+	float: left;
+	width: 50%;
+}
+
+div{
+	clear: both;
+}
+
+
+p{
+	font-size: 40px;
+	margin-left: 40px;
+	padding-top: 20px;
+	clear: both;
+
+}
+
+.lists{
+	font-size: 40px;
+	font-weight: bold;
+	margin-left: 25%;
+}
+
+#pink{
+	color: pink;
+	font-size: 40px;
+	margin-left: 40px;
+}
+
+.highlight {
+	color: pink;
+}
+
+.caption{
+	margin-top: 100px;
+}
+
+.caption2{
+	margin-top: 100px;
+	text-align: center;
+}
+
+
+a{
+	color: pink;
+}
+
+a:hover { 
+    background-color: pink;
+    color: white;
+}
+img{
+	width: 500px;
+	height: 500px;
+	border: 15px solid white;
+	display: inline-block;
+	float: left;
+    margin-left: 40px;
+    
+}
